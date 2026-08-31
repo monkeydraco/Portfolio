@@ -4,3 +4,5 @@ Meet a strategic powerhouse who operates at the lethal intersection of genius, g
 i love develpoing backend in python;
 
 i like netwirking concepts;
+
+i like working with databases;
